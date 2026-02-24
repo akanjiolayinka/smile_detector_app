@@ -1,6 +1,6 @@
 # 😊 Smile Detector
 
-Real-time face and smile detection using OpenCV Haar Cascade classifiers. Detects faces and smiles from your webcam or image files with visual feedback.
+Real-time face and smile detection using OpenCV Haar Cascade classifiers. Detects faces and smiles from your webcam or image files with visual feedback
 
 ## Features
 
