@@ -25,7 +25,7 @@ Real-time face and smile detection using OpenCV Haar Cascade classifiers. Detect
 1. Clone or download this repository:
 ```bash
 cd smile_detector.py
-```
+``
 
 2. Install dependencies:
 ```bash
